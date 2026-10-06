@@ -10,7 +10,7 @@
 import streamlit as st
 from openai import OpenAI
 
-modelo = OpenAI(api_key="AQ.Ab8RN6IH-x15VnL5nBlqK6LF52reYOno6osh_M_Lp7N_0PppiQ",
+modelo = OpenAI(api_key="AQ.Ab8RN6KvWBEl8dhisP-BMi7xtRhUz-JJy1mrdVtuhntmU_ZVcw",
                    base_url="https://generativelanguage.googleapis.com/v1beta/openai")
 
 st.write("# Chat com IA do Sergio") # markdown
